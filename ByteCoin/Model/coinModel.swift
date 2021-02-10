@@ -9,5 +9,5 @@
 import Foundation
 
 struct CoinModel{
-	let currenct
+//	let currenct
 }
